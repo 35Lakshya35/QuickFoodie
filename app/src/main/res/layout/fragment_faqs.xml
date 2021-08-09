@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.FAQsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_margin="3dp"
+            android:orientation="vertical"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/q1_what_is_quickfoodie"
+                android:textSize="16sp"
+                android:textColor="@color/darkPink"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/ans_quickfoodie_is_our_new_food_delivery_platform_which_makes_getting_great_food_from_your_favourite_local_restaurants_as_easy_as_requesting_a_ride"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:background="@color/whileE"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_marginLeft="5dp"
+            android:orientation="vertical"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/q2_how_do_i_start_using_quickfoodie"
+                android:textSize="16sp"
+                android:textColor="@color/darkPink"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/ans_n1_download_the_app_and_add_your_delivery_address_n_n2_choose_from_the_full_menu_of_your_city_s_best_restaurants_n_n3_place_your_order_and_wait_as_your_meal_is_prepared_and_delivered"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:background="@color/whileE"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_marginLeft="5dp"
+            android:orientation="vertical"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/q3_how_have_you_selected_these_products"
+                android:textSize="16sp"
+                android:textColor="@color/darkPink"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/ans_we_have_show_products_which_have_passed_our_quality_tests_and_are_best_suited_for_delivery_we_will_keep_updating_our_catalog_with_better_products_stay_tuned"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:background="@color/whileE"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_marginLeft="5dp"
+            android:orientation="vertical"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/q4_how_are_you_guys_are_different"
+                android:textSize="16sp"
+                android:textColor="@color/darkPink"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/ans_na_best_products_we_only_list_the_products_which_have_passed_our_tests_and_are_the_best_suitable_for_delivery_they_will_help_in_giving_a_better_consumer_experience_so_you_can_get_get_repeated_orders_n_nb_best_prices_we_have_negotiated_rates_with_our_distributors_exclusive_for_quickfoodie_restaurant_n_nc_convenience_no_need_to_haggle_for_prices_no_need_to_follow_up_on_delivery_we_track_all_orders_to_ensure_you_have_a_hassle_free_experience"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:background="@color/whileE" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_marginLeft="5dp"
+            android:orientation="vertical"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/q5_can_i_place_order_on_call"
+                android:textSize="16sp"
+                android:textColor="@color/darkPink"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/ans_sorry_we_don_t_accept_orders_on_call_however_you_can_call_us_on_91_6060606060_for_any_help_related_to_placing_order"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:background="@color/whileE" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_marginLeft="5dp"
+            android:orientation="vertical"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/q6_what_payment_modes_are_accepted"
+                android:textSize="16sp"
+                android:textColor="@color/darkPink"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:text="@string/ans_you_can_pay_by_cash_or_cheque_at_the_time_of_delivery_we_will_soon_be_introducing_more_payment_methods"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</ScrollView>

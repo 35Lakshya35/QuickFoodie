@@ -1,0 +1,78 @@
+<resources>
+
+    <!--Important-->
+    <string name="spFile">Shared Preference</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closedDrawer">Closed Drawer</string>
+    <string-array name="sortOptions">
+        <item>Cost(Low to High)</item>
+        <item>Cost(High to Low)</item>
+        <item>Rating</item>
+    </string-array>
+
+
+    <!--General-->
+    <string name="app_name">QuickFoodie</string>
+    <string name="appName">QuickFoodie</string>
+    <string name="mobile_number_10digits">Mobile Number (10digits)</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account? Sign up now</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="name_min_3_characters">Name(Min. 3 characters)</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="mobile_number_10_digits">Mobile Number (10 digits)</string>
+    <string name="password_min_4_characters">Password (Min. 4 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="enter_your_registered_mobile_number_and_email_below">Enter your registered mobile number and email below:</string>
+    <string name="email_address">Email Address</string>
+    <string name="next">Next</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_the_received_otp_below">Enter the received OTP below</string>
+    <string name="otp_4_characters">OTP (4 characters)</string>
+    <string name="new_password_min_4_characters">New Password (Min. 4 characters)</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favourite_restaurants">Favourite Restaurants</string>
+    <string name="order_history">Order History</string>
+    <string name="faqs">FAQs</string>
+    <string name="persons_name">Persons Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="price_person">Price/person</string>
+    <string name="rating">Rating</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below:</string>
+    <string name="proceed_to_card">Proceed to Card</string>
+    <string name="sampleText">Gheese Cordita Taco</string>
+    <string name="sampleText2">Rs.200</string>
+    <string name="sampleText0">2</string>
+    <string name="ordering_from">Ordering From:</string>
+    <string name="mcdonald">McDonald</string>
+    <string name="place_order">Place Order</string>
+    <string name="gheese_cordita_taco">Gheese Cordita Taco</string>
+    <string name="rs_200">Rs.200</string>
+    <string name="_27_12_2020">27/12/2020</string>
+    <string name="your_previous_orders_are_listed_below">Your previous orders are listed below:</string>
+    <string name="your_order_has_been_successfully_placed">Your order has been successfully placed!</string>
+    <string name="person_s_name">Person\'s Name</string>
+    <string name="place">Place</string>
+    <string name="you_do_not_have_any_favorite_restaurants">You do not have any favorite restaurants</string>
+    <string name="you_didn_t_make_any_order_till_now">You didn\'t make any order till now!</string>
+    <string name="q1_what_is_quickfoodie">Q1 What is QuickFoodie?</string>
+    <string name="ans_quickfoodie_is_our_new_food_delivery_platform_which_makes_getting_great_food_from_your_favourite_local_restaurants_as_easy_as_requesting_a_ride">Ans- QuickFoodie is our new food delivery platform, which makes getting great food from your favourite local restaurants as easy as requesting a ride.</string>
+    <string name="q2_how_do_i_start_using_quickfoodie">Q2 How do I start using QuickFoodie?</string>
+    <string name="ans_n1_download_the_app_and_add_your_delivery_address_n_n2_choose_from_the_full_menu_of_your_city_s_best_restaurants_n_n3_place_your_order_and_wait_as_your_meal_is_prepared_and_delivered">Ans\n1.Download the app and add your delivery address.\n\n2. Choose from the full menu of your city’s best restaurants.\n\n3.Place your order and wait as your meal is prepared and delivered!</string>
+    <string name="q3_how_have_you_selected_these_products">Q3 How have you selected these products?</string>
+    <string name="ans_we_have_show_products_which_have_passed_our_quality_tests_and_are_best_suited_for_delivery_we_will_keep_updating_our_catalog_with_better_products_stay_tuned">Ans-We have show products which have passed our quality tests and are best suited for delivery. We will keep updating our catalog with better products. Stay tuned!</string>
+    <string name="q4_how_are_you_guys_are_different">Q4 How are you guys are different?</string>
+    <string name="ans_na_best_products_we_only_list_the_products_which_have_passed_our_tests_and_are_the_best_suitable_for_delivery_they_will_help_in_giving_a_better_consumer_experience_so_you_can_get_get_repeated_orders_n_nb_best_prices_we_have_negotiated_rates_with_our_distributors_exclusive_for_quickfoodie_restaurant_n_nc_convenience_no_need_to_haggle_for_prices_no_need_to_follow_up_on_delivery_we_track_all_orders_to_ensure_you_have_a_hassle_free_experience">Ans\na)Best products - We only list the products which have passed our tests and are the best suitable for delivery. They will help in giving a better consumer experience, so you can get get repeated orders.\n\nb)Best prices - We have negotiated rates with our distributors exclusive for QuickFoodie Restaurant.\n\nc)Convenience - No need to haggle for prices. No need to follow-up on delivery. We track all orders to ensure you have a hassle free experience.</string>
+    <string name="ans_you_can_pay_by_cash_or_cheque_at_the_time_of_delivery_we_will_soon_be_introducing_more_payment_methods">Ans-You can pay by cash or cheque at the time of delivery. We will soon be introducing more payment methods.</string>
+    <string name="q6_what_payment_modes_are_accepted">Q6 What payment modes are accepted?</string>
+    <string name="ans_sorry_we_don_t_accept_orders_on_call_however_you_can_call_us_on_91_6060606060_for_any_help_related_to_placing_order">Ans–Sorry, we don’t accept orders on call. However you can call us on +91–6060606060 for any help related to placing order.</string>
+    <string name="q5_can_i_place_order_on_call">Q5 Can I place order on call?</string>
+
+
+</resources>

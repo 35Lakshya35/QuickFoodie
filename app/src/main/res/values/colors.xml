@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff1425</color>
+    <color name="colorPrimaryDark">#D52803</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#fff</color>
+    <color name="black">#333</color>
+    <color name="yellow">#ffe00d</color>
+    <color name="darkBlack">#000</color>
+    <color name="darkPink">#ff207d</color>
+    <color name="whileE">#777777</color>
+
+</resources>
